@@ -1,0 +1,1855 @@
+gom.OHL
+27 0
+gom.std.OSymbol
+door1 5.161720573524509 7.2 0.0
+gom.std.OPoint
+1435.84677 801.456923
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+1285.950406 795.178109
+gom.std.OPoint
+1311.346069 795.178109
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1311.346069 795.178109
+gom.std.OPoint
+1311.346069 745.625592
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1311.346069 745.625592
+gom.std.OPoint
+1285.950406 745.625592
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1285.950406 745.625592
+gom.std.OPoint
+1285.950406 795.178109
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1559.728062 745.625592
+gom.std.OPoint
+1559.728062 498.48241
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1560.347471 796.416923
+gom.std.OPoint
+1585.743134 796.416923
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1585.743134 796.416923
+gom.std.OPoint
+1585.743134 746.864406
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1585.743134 746.864406
+gom.std.OPoint
+1560.347471 746.864406
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1560.347471 746.864406
+gom.std.OPoint
+1560.347471 796.416923
+6.48
+gom.std.OArc
+gom.std.OPoint
+1559.728062 747.483811
+gom.std.OPoint
+1311.346069 747.483811
+gom.std.OPoint
+1559.728062 499.101818
+6.48
+gom.std.OSymbol
+window2 6.839174582377989 7.2 4.71238898038469
+gom.std.OPoint
+253.119283 569.038975
+gom.OHL
+7 0
+gom.std.OSLine
+gom.std.OPoint
+320.532556 771.34176
+gom.std.OPoint
+320.532556 366.736194
+6.48
+gom.std.OSLine
+gom.std.OPoint
+320.532556 366.736194
+gom.std.OPoint
+258.159283 366.736194
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.159283 366.736194
+gom.std.OPoint
+258.159283 771.34176
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.159283 771.34176
+gom.std.OPoint
+320.532556 771.34176
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.979986 733.589518
+gom.std.OPoint
+319.711856 733.589518
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.979986 405.309139
+gom.std.OPoint
+322.173958 405.309139
+6.48
+gom.std.OSLine
+gom.std.OPoint
+287.704519 734.410217
+gom.std.OPoint
+287.704519 406.129838
+6.48
+gom.std.OSymbol
+window2 4.386505076973469 7.2 1.5707963267948966
+gom.std.OPoint
+3946.990097 1299.084246
+gom.OHL
+7 0
+gom.std.OSLine
+gom.std.OPoint
+3901.945176 1169.331426
+gom.std.OPoint
+3901.945176 1428.837066
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3901.945176 1428.837066
+gom.std.OPoint
+3941.9501 1428.837066
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3941.9501 1428.837066
+gom.std.OPoint
+3941.9501 1169.331426
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3941.9501 1169.331426
+gom.std.OPoint
+3901.945176 1169.331426
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3941.423719 1193.544936
+gom.std.OPoint
+3902.471557 1193.544936
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3941.423719 1404.097178
+gom.std.OPoint
+3900.892414 1404.097178
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3923.000399 1193.018555
+gom.std.OPoint
+3923.000399 1403.570797
+6.48
+gom.std.OSymbol
+window2 7.192924991811333 7.2 4.71238898038469
+gom.std.OPoint
+253.283828 1670.190678
+gom.OHL
+7 0
+gom.std.OSLine
+gom.std.OPoint
+323.923298 1882.957399
+gom.std.OPoint
+323.923298 1457.423957
+6.48
+gom.std.OSLine
+gom.std.OPoint
+323.923298 1457.423957
+gom.std.OPoint
+258.323825 1457.423957
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.323825 1457.423957
+gom.std.OPoint
+258.323825 1882.957399
+6.48
+gom.std.OSLine
+gom.std.OPoint
+258.323825 1882.957399
+gom.std.OPoint
+323.923298 1882.957399
+6.48
+gom.std.OSLine
+gom.std.OPoint
+259.186975 1843.252456
+gom.std.OPoint
+323.060148 1843.252456
+6.48
+gom.std.OSLine
+gom.std.OPoint
+259.186975 1497.992054
+gom.std.OPoint
+325.649603 1497.992054
+6.48
+gom.std.OSLine
+gom.std.OPoint
+289.397261 1844.115606
+gom.std.OPoint
+289.397261 1498.855205
+6.48
+gom.std.OSymbol
+door1 5.329776592197399 7.2 3.141592653589793
+gom.std.OPoint
+2593.12882 898.35152
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+2747.905531 904.670665
+gom.std.OPoint
+2721.68303 904.670665
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2721.68303 904.670665
+gom.std.OPoint
+2721.68303 955.836522
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2721.68303 955.836522
+gom.std.OPoint
+2747.905531 955.836522
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2747.905531 955.836522
+gom.std.OPoint
+2747.905531 904.670665
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2465.214181 955.836522
+gom.std.OPoint
+2465.214181 1211.026223
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2464.574609 903.39152
+gom.std.OPoint
+2438.352108 903.39152
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2438.352108 903.39152
+gom.std.OPoint
+2438.352108 954.557374
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2438.352108 954.557374
+gom.std.OPoint
+2464.574609 954.557374
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2464.574609 954.557374
+gom.std.OPoint
+2464.574609 903.39152
+6.48
+gom.std.OArc
+gom.std.OPoint
+2465.214181 953.917801
+gom.std.OPoint
+2721.68303 953.917801
+gom.std.OPoint
+2465.214181 1210.38665
+6.48
+gom.std.OSymbol
+door1 5.161720573524509 7.2 3.141592653589793
+gom.std.OPoint
+2270.636024 1421.580017
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+2420.532389 1427.858834
+gom.std.OPoint
+2395.136725 1427.858834
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2395.136725 1427.858834
+gom.std.OPoint
+2395.136725 1477.411351
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2395.136725 1477.411351
+gom.std.OPoint
+2420.532389 1477.411351
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2420.532389 1477.411351
+gom.std.OPoint
+2420.532389 1427.858834
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2146.754732 1477.411351
+gom.std.OPoint
+2146.754732 1724.554534
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2146.135324 1426.62002
+gom.std.OPoint
+2120.73966 1426.62002
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2120.73966 1426.62002
+gom.std.OPoint
+2120.73966 1476.172537
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2120.73966 1476.172537
+gom.std.OPoint
+2146.135324 1476.172537
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2146.135324 1476.172537
+gom.std.OPoint
+2146.135324 1426.62002
+6.48
+gom.std.OArc
+gom.std.OPoint
+2146.754732 1475.553132
+gom.std.OPoint
+2395.136725 1475.553132
+gom.std.OPoint
+2146.754732 1723.935125
+6.48
+gom.std.OSymbol
+table2 3.9600000000000004 7.2 0.0
+gom.std.OPoint
+943.922995 778.752151
+gom.OHL
+20 0
+gom.std.OSLine
+gom.std.OPoint
+747.506995 692.136151
+gom.std.OPoint
+1140.338995 692.136151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1140.338995 692.136151
+gom.std.OPoint
+1140.338995 507.600151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1140.338995 507.600151
+gom.std.OPoint
+747.506995 507.600151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+747.506995 507.600151
+gom.std.OPoint
+747.506995 692.136151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+906.698995 507.600151
+gom.std.OPoint
+906.698995 426.816151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+906.698995 426.816151
+gom.std.OPoint
+828.290995 426.816151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+828.290995 426.816151
+gom.std.OPoint
+828.290995 507.600151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+829.082995 444.240151
+gom.std.OPoint
+906.698995 444.240151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+828.290995 773.712151
+gom.std.OPoint
+906.698995 773.712151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+906.698995 773.712151
+gom.std.OPoint
+906.698995 692.136151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+828.290995 692.136151
+gom.std.OPoint
+828.290995 773.712151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+829.082995 756.288151
+gom.std.OPoint
+906.698995 756.288151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1057.970995 507.600151
+gom.std.OPoint
+1057.970995 426.816151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1057.970995 426.816151
+gom.std.OPoint
+979.562995 426.816151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+979.562995 426.816151
+gom.std.OPoint
+979.562995 507.600151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+979.562995 444.240151
+gom.std.OPoint
+1057.970995 444.240151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+979.562995 773.712151
+gom.std.OPoint
+1057.970995 773.712151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1057.970995 773.712151
+gom.std.OPoint
+1057.970995 692.136151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+979.562995 692.136151
+gom.std.OPoint
+979.562995 773.712151
+6.48
+gom.std.OSLine
+gom.std.OPoint
+979.562995 756.288151
+gom.std.OPoint
+1057.970995 756.288151
+6.48
+gom.std.OSymbol
+sofa2 3.9600000000000004 7.2 4.71238898038469
+gom.std.OPoint
+2037.964367 1753.566577
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+1842.844367 1987.832815
+gom.std.OPoint
+2032.924367 1987.832815
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2032.924367 1987.832815
+gom.std.OPoint
+2032.924367 1524.037615
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2032.924367 1524.037615
+gom.std.OPoint
+1842.844367 1524.037615
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1842.844367 1524.037615
+gom.std.OPoint
+1842.844367 1547.797615
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1842.844367 1547.797615
+gom.std.OPoint
+2010.114767 1547.797615
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2010.114767 1547.797615
+gom.std.OPoint
+2010.114767 1963.122415
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2010.114767 1963.122415
+gom.std.OPoint
+1842.844367 1963.122415
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1842.844367 1963.122415
+gom.std.OPoint
+1842.844367 1987.832815
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1848.546767 1963.122415
+gom.std.OPoint
+1848.546767 1547.797615
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1847.596367 1755.935215
+gom.std.OPoint
+2009.164367 1755.935215
+6.48
+gom.std.OSymbol
+table1 3.7957166392092256 7.2 0.0
+gom.std.OPoint
+1596.32681 320.406408
+gom.OHL
+6 0
+gom.std.OSLine
+gom.std.OPoint
+1485.415969 209.267824
+gom.std.OPoint
+1707.693134 209.267824
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1707.693134 209.267824
+gom.std.OPoint
+1707.693134 432.000475
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1707.693134 432.000475
+gom.std.OPoint
+1485.415969 432.000475
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1485.415969 432.000475
+gom.std.OPoint
+1485.415969 209.267824
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1484.960483 208.812337
+gom.std.OPoint
+1707.693134 432.000475
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1485.415969 431.544989
+gom.std.OPoint
+1707.237648 209.267824
+6.48
+gom.std.OSymbol
+tub 3.9600000000000004 7.2 1.5707963267948966
+gom.std.OPoint
+2766.060558 1998.990338
+gom.OHL
+8 0
+gom.std.OSLine
+gom.std.OPoint
+2586.780558 1803.366338
+gom.std.OPoint
+2586.780558 2194.614338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2586.780558 2194.614338
+gom.std.OPoint
+2761.020558 2194.614338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2761.020558 2194.614338
+gom.std.OPoint
+2761.020558 1803.366338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2761.020558 1803.366338
+gom.std.OPoint
+2586.780558 1803.366338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2734.092558 2119.374338
+gom.std.OPoint
+2734.092558 1835.046338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2734.092558 1835.046338
+gom.std.OPoint
+2616.084558 1835.046338
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2616.084558 1835.046338
+gom.std.OPoint
+2616.084558 2124.918338
+6.48
+gom.std.OArc
+gom.std.OPoint
+2673.900558 2099.574338
+gom.std.OPoint
+2734.347982 2118.563766
+gom.std.OPoint
+2614.973652 2122.85758
+6.48
+gom.std.OSymbol
+sink4 3.9600000000000004 7.2 1.5707963267948966
+gom.std.OPoint
+2051.545997 1983.452256
+gom.OHL
+8 0
+gom.std.OSLine
+gom.std.OPoint
+2105.689997 1891.580256
+gom.std.OPoint
+2105.689997 2075.324256
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2105.689997 2075.324256
+gom.std.OPoint
+2056.585997 2075.324256
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2056.585997 1891.580256
+gom.std.OPoint
+2056.585997 2075.324256
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2105.689997 1891.580256
+gom.std.OPoint
+2056.585997 1891.580256
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2133.409997 1933.160256
+gom.std.OPoint
+2105.689997 1933.160256
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2105.689997 2032.160256
+gom.std.OPoint
+2134.993997 2032.160256
+6.48
+gom.std.OCircle
+gom.std.OPoint
+2178.553997 1981.868256
+66.52800000000002
+6.48
+gom.std.OCircle
+gom.std.OPoint
+2178.553997 1981.868256
+57.02400000000001
+6.48
+gom.std.OSymbol
+sink3 3.9600000000000004 7.2 0.0
+gom.std.OPoint
+657.423277 203.98081
+gom.OHL
+18 0
+gom.std.OSLine
+gom.std.OPoint
+519.343117 209.02081
+gom.std.OPoint
+789.890317 209.02081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+789.890317 209.02081
+gom.std.OPoint
+789.890317 340.96801
+6.48
+gom.std.OSLine
+gom.std.OPoint
+519.343117 340.96801
+gom.std.OPoint
+789.890317 340.96801
+6.48
+gom.std.OSLine
+gom.std.OPoint
+519.343117 209.02081
+gom.std.OPoint
+519.343117 340.96801
+6.48
+gom.std.OSLine
+gom.std.OPoint
+525.995917 215.67361
+gom.std.OPoint
+664.041517 215.67361
+6.48
+gom.std.OSLine
+gom.std.OPoint
+664.041517 215.67361
+gom.std.OPoint
+664.041517 333.76081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+525.995917 333.76081
+gom.std.OPoint
+664.041517 333.76081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+525.995917 215.67361
+gom.std.OPoint
+525.995917 333.76081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+678.455917 223.43521
+gom.std.OPoint
+775.475917 223.43521
+6.48
+gom.std.OSLine
+gom.std.OPoint
+678.455917 243.94801
+gom.std.OPoint
+775.475917 243.94801
+6.48
+gom.std.OSLine
+gom.std.OPoint
+679.010317 265.01521
+gom.std.OPoint
+776.030317 265.01521
+6.48
+gom.std.OSLine
+gom.std.OPoint
+679.010317 285.52801
+gom.std.OPoint
+776.030317 285.52801
+6.48
+gom.std.OSLine
+gom.std.OPoint
+678.455917 306.04081
+gom.std.OPoint
+775.475917 306.04081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+678.455917 326.55361
+gom.std.OPoint
+775.475917 326.55361
+6.48
+gom.std.OSLine
+gom.std.OPoint
+578.663917 333.76081
+gom.std.OPoint
+578.663917 319.90081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+578.663917 319.90081
+gom.std.OPoint
+613.036717 319.90081
+6.48
+gom.std.OSLine
+gom.std.OPoint
+613.036717 319.90081
+gom.std.OPoint
+613.036717 333.20641
+6.48
+gom.std.OCircle
+gom.std.OPoint
+648.518317 230.64241
+8.316000000000003
+6.48
+gom.std.OSymbol
+table3 3.9600000000000004 7.2 1.0122909661567112
+gom.std.OPoint
+1147.177051 1374.5731
+gom.OHL
+25 0
+gom.std.OSLine
+gom.std.OPoint
+1307.625739 1197.080406
+gom.std.OPoint
+1377.631044 1309.112309
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1377.631044 1309.112309
+gom.std.OPoint
+1365.541272 1316.666837
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1295.535967 1204.634934
+gom.std.OPoint
+1365.541272 1316.666837
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1307.625739 1197.080406
+gom.std.OPoint
+1295.535967 1204.634934
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1302.586862 1215.918724
+gom.std.OPoint
+1274.982091 1230.926717
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1358.490377 1305.383047
+gom.std.OPoint
+1332.094162 1324.118617
+6.48
+gom.std.OSLine
+gom.std.OPoint
+916.723062 1441.343509
+gom.std.OPoint
+986.72836 1553.375416
+6.48
+gom.std.OSLine
+gom.std.OPoint
+986.72836 1553.375416
+gom.std.OPoint
+998.012149 1546.32452
+6.48
+gom.std.OSLine
+gom.std.OPoint
+928.006848 1434.292614
+gom.std.OPoint
+998.012149 1546.32452
+6.48
+gom.std.OSLine
+gom.std.OPoint
+916.723062 1441.343509
+gom.std.OPoint
+928.006848 1434.292614
+6.48
+gom.std.OSLine
+gom.std.OPoint
+936.166079 1443.763148
+gom.std.OPoint
+961.756308 1425.531218
+6.48
+gom.std.OSLine
+gom.std.OPoint
+992.069593 1533.227476
+gom.std.OPoint
+1020.983983 1518.521832
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1324.82092 1534.870616
+gom.std.OPoint
+1317.266392 1522.780841
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1317.266392 1522.780841
+gom.std.OPoint
+1205.234489 1592.786142
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1212.78902 1604.875918
+gom.std.OPoint
+1205.234489 1592.786142
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1324.82092 1534.870616
+gom.std.OPoint
+1212.78902 1604.875918
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1217.324261 1585.231614
+gom.std.OPoint
+1197.782712 1559.339032
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1305.982602 1529.831732
+gom.std.OPoint
+1290.470972 1501.420975
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1081.867435 1144.270282
+gom.std.OPoint
+1089.421963 1156.360054
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1089.421963 1156.360054
+gom.std.OPoint
+977.390064 1226.365358
+6.48
+gom.std.OSLine
+gom.std.OPoint
+969.835532 1214.275586
+gom.std.OPoint
+977.390064 1226.365358
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1081.867435 1144.270282
+gom.std.OPoint
+969.835532 1214.275586
+6.48
+gom.std.OSLine
+gom.std.OPoint
+989.479836 1218.81083
+gom.std.OPoint
+1004.185483 1247.725224
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1078.138177 1163.410949
+gom.std.OPoint
+1096.873744 1189.807164
+6.48
+gom.std.OCircle
+gom.std.OPoint
+1147.328226 1374.5731
+191.98080000000002
+6.48
+gom.std.OSymbol
+table1 3.7957166392092256 7.2 0.0
+gom.std.OPoint
+2154.63654 950.326916
+gom.OHL
+6 0
+gom.std.OSLine
+gom.std.OPoint
+2044.889399 955.822399
+gom.std.OPoint
+2267.166564 955.822399
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2267.166564 955.822399
+gom.std.OPoint
+2267.166564 1178.555051
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2267.166564 1178.555051
+gom.std.OPoint
+2044.889399 1178.555051
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2044.889399 1178.555051
+gom.std.OPoint
+2044.889399 955.822399
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2044.433912 955.366913
+gom.std.OPoint
+2267.166564 1178.555051
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2044.889399 1178.099564
+gom.std.OPoint
+2266.711078 955.822399
+6.48
+gom.std.OSymbol
+window1 7.207088939940926 7.2 4.71238898038469
+gom.std.OPoint
+252.619348 1162.60781
+gom.OHL
+7 0
+gom.std.OSLine
+gom.std.OPoint
+333.766206 1375.361078
+gom.std.OPoint
+333.766206 949.854546
+6.48
+gom.std.OSLine
+gom.std.OPoint
+333.766206 949.854546
+gom.std.OPoint
+257.659348 949.854546
+6.48
+gom.std.OSLine
+gom.std.OPoint
+257.659348 949.854546
+gom.std.OPoint
+257.659348 1375.361078
+6.48
+gom.std.OSLine
+gom.std.OPoint
+257.659348 1375.361078
+gom.std.OPoint
+333.766206 1375.361078
+6.48
+gom.std.OSLine
+gom.std.OPoint
+333.766206 1355.469512
+gom.std.OPoint
+359.711726 1355.469512
+6.48
+gom.std.OSLine
+gom.std.OPoint
+359.711726 1355.469512
+gom.std.OPoint
+359.711726 970.610962
+6.48
+gom.std.OSLine
+gom.std.OPoint
+333.766206 970.610962
+gom.std.OPoint
+359.711726 970.610962
+6.48
+gom.std.OSymbol
+window2 7.192924991811333 7.2 1.5707963267948966
+gom.std.OPoint
+3945.04601 1727.49344
+gom.OHL
+7 0
+gom.std.OSLine
+gom.std.OPoint
+3874.406537 1514.726719
+gom.std.OPoint
+3874.406537 1940.260162
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3874.406537 1940.260162
+gom.std.OPoint
+3940.00601 1940.260162
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3940.00601 1940.260162
+gom.std.OPoint
+3940.00601 1514.726719
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3940.00601 1514.726719
+gom.std.OPoint
+3874.406537 1514.726719
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3939.14286 1554.431663
+gom.std.OPoint
+3875.269687 1554.431663
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3939.14286 1899.692064
+gom.std.OPoint
+3872.680232 1899.692064
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3908.932574 1553.568512
+gom.std.OPoint
+3908.932574 1898.828914
+6.48
+gom.std.OSymbol
+table3 3.9600000000000004 7.2 5.3756140961425345
+gom.std.OPoint
+5151.295685 2015.516264
+gom.OHL
+25 0
+gom.std.OSLine
+gom.std.OPoint
+4929.015103 1925.591951
+gom.std.OPoint
+5010.347434 1821.491316
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5010.347434 1821.491316
+gom.std.OPoint
+5021.581316 1830.268184
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4940.248986 1934.368819
+gom.std.OPoint
+5021.581316 1830.268184
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4929.015103 1925.591951
+gom.std.OPoint
+4940.248986 1934.368819
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4948.440732 1923.883862
+gom.std.OPoint
+4971.98502 1944.690829
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5013.389567 1840.753145
+gom.std.OPoint
+5040.023285 1859.14953
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5292.243932 2209.377416
+gom.std.OPoint
+5373.576263 2105.276782
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5373.576263 2105.276782
+gom.std.OPoint
+5363.091306 2097.085032
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5281.758979 2201.185667
+gom.std.OPoint
+5363.091306 2097.085032
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5292.243932 2209.377416
+gom.std.OPoint
+5281.758979 2201.185667
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5287.867747 2190.279388
+gom.std.OPoint
+5261.982959 2172.468125
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5352.816586 2107.14867
+gom.std.OPoint
+5329.108498 2085.007651
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5240.552972 1793.902712
+gom.std.OPoint
+5231.776104 1805.136592
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5231.776104 1805.136592
+gom.std.OPoint
+5335.876739 1886.468922
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5344.653607 1875.235043
+gom.std.OPoint
+5335.876739 1886.468922
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5240.552972 1793.902712
+gom.std.OPoint
+5344.653607 1875.235043
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5324.642856 1877.692054
+gom.std.OPoint
+5306.995393 1904.91089
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5242.261057 1813.328338
+gom.std.OPoint
+5220.868968 1837.621552
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4956.60371 2155.79749
+gom.std.OPoint
+4965.380579 2144.563607
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4965.380579 2144.563607
+gom.std.OPoint
+5069.481214 2225.895937
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5060.704345 2237.12982
+gom.std.OPoint
+5069.481214 2225.895937
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4956.60371 2155.79749
+gom.std.OPoint
+5060.704345 2237.12982
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5058.247331 2217.119069
+gom.std.OPoint
+5080.388346 2193.410977
+6.48
+gom.std.OSLine
+gom.std.OPoint
+4975.865536 2152.755356
+gom.std.OPoint
+4994.261924 2126.121642
+6.48
+gom.std.OCircle
+gom.std.OPoint
+5150.628659 2015.516264
+191.98080000000002
+6.48
+gom.std.OSymbol
+bed 3.9600000000000004 7.2 0.0
+gom.std.OPoint
+3165.205612 737.917747
+gom.OHL
+8 0
+gom.std.OSLine
+gom.std.OPoint
+3060.523012 1074.172147
+gom.std.OPoint
+3269.888215 1074.172147
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3269.888215 1074.172147
+gom.std.OPoint
+3269.888215 742.957744
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3269.888215 742.957744
+gom.std.OPoint
+3060.523012 742.957744
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3060.523012 742.957744
+gom.std.OPoint
+3060.523012 1074.172147
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3059.849812 802.199344
+gom.std.OPoint
+3270.561412 802.199344
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3270.561412 802.199344
+gom.std.OPoint
+3061.196212 852.016147
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3061.196212 852.016147
+gom.std.OPoint
+3092.836615 898.466947
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3092.836615 898.466947
+gom.std.OPoint
+3270.561412 801.526147
+6.48
+gom.std.OSymbol
+table1 3.7957166392092256 7.2 0.0
+gom.std.OPoint
+3486.687127 1431.045277
+gom.OHL
+6 0
+gom.std.OSLine
+gom.std.OPoint
+3375.776286 1203.272626
+gom.std.OPoint
+3598.053451 1203.272626
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3598.053451 1203.272626
+gom.std.OPoint
+3598.053451 1426.005277
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3598.053451 1426.005277
+gom.std.OPoint
+3375.776286 1426.005277
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3375.776286 1426.005277
+gom.std.OPoint
+3375.776286 1203.272626
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3375.3208 1202.817139
+gom.std.OPoint
+3598.053451 1426.005277
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3375.776286 1425.549791
+gom.std.OPoint
+3597.597965 1203.272626
+6.48
+gom.std.OSymbol
+door1 5.173724574858286 7.2 1.5707963267948966
+gom.std.OPoint
+2797.885382 1277.93898
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+2804.16708 1127.69402
+gom.std.OPoint
+2804.16708 1153.148746
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2804.16708 1153.148746
+gom.std.OPoint
+2853.834836 1153.148746
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2853.834836 1153.148746
+gom.std.OPoint
+2853.834836 1127.69402
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2853.834836 1127.69402
+gom.std.OPoint
+2804.16708 1127.69402
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2853.834836 1402.108373
+gom.std.OPoint
+3101.55277 1402.108373
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2802.925386 1402.729218
+gom.std.OPoint
+2802.925386 1428.183943
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2802.925386 1428.183943
+gom.std.OPoint
+2852.593142 1428.183943
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2852.593142 1428.183943
+gom.std.OPoint
+2852.593142 1402.729218
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2852.593142 1402.729218
+gom.std.OPoint
+2802.925386 1402.729218
+6.48
+gom.std.OArc
+gom.std.OPoint
+2851.972294 1402.108373
+gom.std.OPoint
+2851.972294 1153.148746
+gom.std.OPoint
+3100.931921 1402.108373
+6.48
+gom.std.OSymbol
+table1 3.9600000000000004 7.2 1.0122909661567112
+gom.std.OPoint
+3547.999631 1801.398974
+gom.OHL
+6 0
+gom.std.OSLine
+gom.std.OPoint
+3585.087781 1641.826807
+gom.std.OPoint
+3707.974789 1838.487125
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3707.974789 1838.487125
+gom.std.OPoint
+3510.911473 1961.625949
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3510.911473 1961.625949
+gom.std.OPoint
+3388.024469 1764.965628
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3388.024469 1764.965628
+gom.std.OPoint
+3585.087781 1641.826807
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3585.238956 1641.171996
+gom.std.OPoint
+3510.911473 1961.625949
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3388.427464 1764.713812
+gom.std.OPoint
+3707.722966 1838.084134
+6.48
+gom.std.OSymbol
+armchair 3.9600000000000004 7.2 2.1467549799530254
+gom.std.OPoint
+3125.876782 1584.275879
+gom.OHL
+13 0
+gom.std.OSLine
+gom.std.OPoint
+3100.358268 1589.315879
+gom.std.OPoint
+3083.535454 1615.220741
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3083.535454 1615.220741
+gom.std.OPoint
+3259.289945 1729.357034
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3259.289945 1729.357034
+gom.std.OPoint
+3276.112752 1703.45218
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3276.112752 1703.45218
+gom.std.OPoint
+3100.358268 1589.315879
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2989.327716 1760.287936
+gom.std.OPoint
+2972.504909 1786.19279
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2972.504909 1786.19279
+gom.std.OPoint
+3148.259393 1900.329088
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3148.259393 1900.329088
+gom.std.OPoint
+3165.082207 1874.424233
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3165.082207 1874.424233
+gom.std.OPoint
+2989.327716 1760.287936
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3083.794268 1614.822199
+gom.std.OPoint
+2989.327716 1760.287936
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3259.010495 1728.04234
+gom.std.OPoint
+3266.436492 1764.595055
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3200.439312 1866.221798
+gom.std.OPoint
+3164.02632 1874.305145
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3267.47174 1763.00091
+gom.std.OPoint
+3199.40406 1867.815943
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3120.997864 1639.549109
+gom.std.OPoint
+3026.531315 1785.014842
+6.48
+gom.std.OSymbol
+sofa1 3.9600000000000004 7.2 1.186823891356144
+gom.std.OPoint
+5906.0232 1705.333172
+gom.OHL
+5 0
+gom.std.OSLine
+gom.std.OPoint
+5759.354473 1651.836848
+gom.std.OPoint
+5837.680213 1845.699869
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5837.680213 1845.699869
+gom.std.OPoint
+6052.691927 1758.829493
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6052.691927 1758.829493
+gom.std.OPoint
+5974.366183 1564.96648
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5974.366183 1564.96648
+gom.std.OPoint
+5759.354473 1651.836848
+6.48
+gom.std.OSLine
+gom.std.OPoint
+5789.315124 1639.73196
+gom.std.OPoint
+5867.640868 1833.59498
+6.48
+gom.std.OSymbol
+armchair 3.9600000000000004 7.2 1.2566370614359172
+gom.std.OPoint
+6257.925457 2136.066516
+gom.OHL
+13 0
+gom.std.OSLine
+gom.std.OPoint
+6118.542086 2056.816123
+gom.std.OPoint
+6128.087008 2086.192357
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6128.087008 2086.192357
+gom.std.OPoint
+6327.393451 2021.433768
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6327.393451 2021.433768
+gom.std.OPoint
+6317.848537 1992.057534
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6317.848537 1992.057534
+gom.std.OPoint
+6118.542086 2056.816123
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6181.53854 2250.699268
+gom.std.OPoint
+6191.083454 2280.075502
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6191.083454 2280.075502
+gom.std.OPoint
+6390.389902 2215.316909
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6390.389902 2215.316909
+gom.std.OPoint
+6380.844988 2185.940675
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6380.844988 2185.940675
+gom.std.OPoint
+6181.53854 2250.699268
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6127.94016 2085.740413
+gom.std.OPoint
+6181.53854 2250.699268
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6326.195879 2020.823572
+gom.std.OPoint
+6359.276005 2038.055861
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6396.721448 2153.301084
+gom.std.OPoint
+6380.087947 2186.686307
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6358.688626 2036.248092
+gom.std.OPoint
+6397.308828 2155.108853
+6.48
+gom.std.OSLine
+gom.std.OPoint
+6170.56956 2072.388938
+gom.std.OPoint
+6224.167937 2237.347789
+6.48
+gom.std.OSymbol
+sofa2 3.9600000000000004 7.2 1.2566373063162573
+gom.std.OPoint
+1397.375266 2136.195266
+gom.OHL
+10 0
+gom.std.OSLine
+gom.std.OPoint
+1442.815254 1632.133235
+gom.std.OPoint
+1262.038417 1690.871141
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1262.038417 1690.871141
+gom.std.OPoint
+1405.35891 2131.96662
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1405.35891 2131.96662
+gom.std.OPoint
+1586.135747 2073.228718
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1586.135747 2073.228718
+gom.std.OPoint
+1578.793507 2050.631611
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1578.793507 2050.631611
+gom.std.OPoint
+1419.709892 2102.320969
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1419.709892 2102.320969
+gom.std.OPoint
+1291.367567 1707.32358
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1291.367567 1707.32358
+gom.std.OPoint
+1450.451182 1655.634222
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1450.451182 1655.634222
+gom.std.OPoint
+1442.815254 1632.133235
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1445.027879 1657.396364
+gom.std.OPoint
+1573.370201 2052.393746
+6.48
+gom.std.OSLine
+gom.std.OPoint
+1509.956078 1854.149425
+gom.std.OPoint
+1356.295766 1904.076641
+6.48
+gom.std.OSymbol
+armchair 3.9600000000000004 7.2 4.4505895925855405
+gom.std.OPoint
+3845.110216 1023.022588
+gom.OHL
+13 0
+gom.std.OSLine
+gom.std.OPoint
+3840.070216 1109.27808
+gom.std.OPoint
+3832.075814 1079.442565
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3832.075814 1079.442565
+gom.std.OPoint
+3629.653304 1133.681512
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3629.653304 1133.681512
+gom.std.OPoint
+3637.647706 1163.517026
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3637.647706 1163.517026
+gom.std.OPoint
+3840.070216 1109.27808
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3787.307158 912.363671
+gom.std.OPoint
+3779.312753 882.528149
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3779.312753 882.528149
+gom.std.OPoint
+3576.890246 936.767099
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3576.890246 936.767099
+gom.std.OPoint
+3584.884651 966.602617
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3584.884651 966.602617
+gom.std.OPoint
+3787.307158 912.363671
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3832.198805 1079.901572
+gom.std.OPoint
+3787.307158 912.363671
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3630.817303 1134.353542
+gom.std.OPoint
+3598.68438 1115.413596
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3567.32172 998.366566
+gom.std.OPoint
+3585.679675 965.897626
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3599.176342 1117.249625
+gom.std.OPoint
+3566.829758 996.530533
+6.48
+gom.std.OSLine
+gom.std.OPoint
+3788.929062 1091.003699
+gom.std.OPoint
+3744.037418 923.465797
+6.48
+gom.std.OSymbol
+table1 3.9600000000000004 7.2 0.10472
+gom.std.OPoint
+2390.572573 2292.242681
+gom.OHL
+6 0
+gom.std.OSLine
+gom.std.OPoint
+2300.311706 2044.035317
+gom.std.OPoint
+2530.938942 2068.275272
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2530.938942 2068.275272
+gom.std.OPoint
+2506.649314 2299.375105
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2506.649314 2299.375105
+gom.std.OPoint
+2276.022078 2275.135146
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2276.022078 2275.135146
+gom.std.OPoint
+2300.311706 2044.035317
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2299.888782 2043.513047
+gom.std.OPoint
+2506.649314 2299.375105
+6.48
+gom.std.OSLine
+gom.std.OPoint
+2276.071751 2274.662549
+gom.std.OPoint
+2530.466345 2068.2256
+6.48

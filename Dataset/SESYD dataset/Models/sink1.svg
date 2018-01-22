@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="184.125" height="141.5">
+<g style="stroke-linecap:round">
+<line x1="5.0625" y1="116.0625" x2="22.6875" y2="139.3125" stroke="black" stroke-width="3.375"/>
+<line x1="22.6875" y1="139.3125" x2="162.1875" y2="139.3125" stroke="black" stroke-width="3.375"/>
+<line x1="162.1875" y1="139.3125" x2="180.1875" y2="112.6875" stroke="black" stroke-width="3.375"/>
+<line x1="25.6875" y1="113.4375" x2="161.0625" y2="113.4375" stroke="black" stroke-width="3.375"/>
+<circle cx="91.3125" cy="92.8125" r="12.375" fill="none" stroke="black" stroke-width="3.375"/>
+<path d="m 27.158378,114.069456 a 70.87500003272521,70.87500003272521 0 1 1 132.205496,-0.3807259999999957" fill="none" stroke="black" stroke-width="3.375"/>
+<path d="m 5.106345,116.685004 a 90.3749998670233,90.3749998670233 0 1 1 174.684657,-2.9118950000000012" fill="none" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

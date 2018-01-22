@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="203.91250000000002" height="318.025">
+<g style="stroke-linecap:round">
+<line x1="2.825" y1="315.8375" x2="201.0875" y2="315.8375" stroke="black" stroke-width="3.375"/>
+<line x1="201.0875" y1="315.8375" x2="201.0875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="201.0875" y1="2.1875" x2="2.825" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="2.825" y1="2.1875" x2="2.825" y2="315.8375" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="58.2875" x2="201.725" y2="58.2875" stroke="black" stroke-width="3.375"/>
+<line x1="201.725" y1="58.2875" x2="3.4625" y2="105.4625" stroke="black" stroke-width="3.375"/>
+<line x1="3.4625" y1="105.4625" x2="33.425" y2="149.45" stroke="black" stroke-width="3.375"/>
+<line x1="33.425" y1="149.45" x2="201.725" y2="57.65" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

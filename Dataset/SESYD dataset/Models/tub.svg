@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="374.875" height="169.375">
+<g style="stroke-linecap:round">
+<line x1="2.1875" y1="167.1875" x2="372.6875" y2="167.1875" stroke="black" stroke-width="3.375"/>
+<line x1="372.6875" y1="167.1875" x2="372.6875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="372.6875" y1="2.1875" x2="2.1875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="2.1875" x2="2.1875" y2="167.1875" stroke="black" stroke-width="3.375"/>
+<line x1="301.4375" y1="27.6875" x2="32.1875" y2="27.6875" stroke="black" stroke-width="3.375"/>
+<line x1="32.1875" y1="27.6875" x2="32.1875" y2="139.4375" stroke="black" stroke-width="3.375"/>
+<line x1="32.1875" y1="139.4375" x2="306.6875" y2="139.4375" stroke="black" stroke-width="3.375"/>
+<path d="m 300.669914,27.445621 a 59.9999996859361,59.9999996859361 0 0 1 4.066107999999986,113.043875" fill="none" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

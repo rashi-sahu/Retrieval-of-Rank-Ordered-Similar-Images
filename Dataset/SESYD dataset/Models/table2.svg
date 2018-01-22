@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="376.375" height="332.875">
+<g style="stroke-linecap:round">
+<line x1="2.1875" y1="253.4375" x2="374.1875" y2="253.4375" stroke="black" stroke-width="3.375"/>
+<line x1="374.1875" y1="253.4375" x2="374.1875" y2="78.6875" stroke="black" stroke-width="3.375"/>
+<line x1="374.1875" y1="78.6875" x2="2.1875" y2="78.6875" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="78.6875" x2="2.1875" y2="253.4375" stroke="black" stroke-width="3.375"/>
+<line x1="152.9375" y1="78.6875" x2="152.9375" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="152.9375" y1="2.1875" x2="78.6875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="78.6875" y1="2.1875" x2="78.6875" y2="78.6875" stroke="black" stroke-width="3.375"/>
+<line x1="79.4375" y1="18.6875" x2="152.9375" y2="18.6875" stroke="black" stroke-width="3.375"/>
+<line x1="78.6875" y1="330.6875" x2="152.9375" y2="330.6875" stroke="black" stroke-width="3.375"/>
+<line x1="152.9375" y1="330.6875" x2="152.9375" y2="253.4375" stroke="black" stroke-width="3.375"/>
+<line x1="78.6875" y1="253.4375" x2="78.6875" y2="330.6875" stroke="black" stroke-width="3.375"/>
+<line x1="79.4375" y1="314.1875" x2="152.9375" y2="314.1875" stroke="black" stroke-width="3.375"/>
+<line x1="296.1875" y1="78.6875" x2="296.1875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="296.1875" y1="2.1875" x2="221.9375" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="221.9375" y1="2.1875" x2="221.9375" y2="78.6875" stroke="black" stroke-width="3.375"/>
+<line x1="221.9375" y1="18.6875" x2="296.1875" y2="18.6875" stroke="black" stroke-width="3.375"/>
+<line x1="221.9375" y1="330.6875" x2="296.1875" y2="330.6875" stroke="black" stroke-width="3.375"/>
+<line x1="296.1875" y1="330.6875" x2="296.1875" y2="253.4375" stroke="black" stroke-width="3.375"/>
+<line x1="221.9375" y1="253.4375" x2="221.9375" y2="330.6875" stroke="black" stroke-width="3.375"/>
+<line x1="221.9375" y1="314.1875" x2="296.1875" y2="314.1875" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

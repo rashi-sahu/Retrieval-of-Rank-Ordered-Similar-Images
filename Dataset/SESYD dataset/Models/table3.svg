@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="439.975" height="440.875">
+<g style="stroke-linecap:round">
+<line x1="157.8875" y1="2.1875" x2="282.9875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="282.9875" y1="2.1875" x2="282.9875" y2="15.6875" stroke="black" stroke-width="3.375"/>
+<line x1="157.8875" y1="15.6875" x2="282.9875" y2="15.6875" stroke="black" stroke-width="3.375"/>
+<line x1="157.8875" y1="2.1875" x2="157.8875" y2="15.6875" stroke="black" stroke-width="3.375"/>
+<line x1="170.4875" y1="15.6875" x2="168.6875" y2="45.3875" stroke="black" stroke-width="3.375"/>
+<line x1="270.3875" y1="15.6875" x2="272.1875" y2="46.2875" stroke="black" stroke-width="3.375"/>
+<line x1="157.8875" y1="438.6875" x2="282.9875" y2="438.6875" stroke="black" stroke-width="3.375"/>
+<line x1="282.9875" y1="438.6875" x2="282.9875" y2="426.0875" stroke="black" stroke-width="3.375"/>
+<line x1="157.8875" y1="426.0875" x2="282.9875" y2="426.0875" stroke="black" stroke-width="3.375"/>
+<line x1="157.8875" y1="438.6875" x2="157.8875" y2="426.0875" stroke="black" stroke-width="3.375"/>
+<line x1="169.5875" y1="424.2875" x2="167.7875" y2="394.5875" stroke="black" stroke-width="3.375"/>
+<line x1="269.4875" y1="424.2875" x2="272.1875" y2="393.6875" stroke="black" stroke-width="3.375"/>
+<line x1="437.7875" y1="157.8875" x2="424.2875" y2="157.8875" stroke="black" stroke-width="3.375"/>
+<line x1="424.2875" y1="157.8875" x2="424.2875" y2="282.9875" stroke="black" stroke-width="3.375"/>
+<line x1="437.7875" y1="282.9875" x2="424.2875" y2="282.9875" stroke="black" stroke-width="3.375"/>
+<line x1="437.7875" y1="157.8875" x2="437.7875" y2="282.9875" stroke="black" stroke-width="3.375"/>
+<line x1="424.2875" y1="269.4875" x2="393.6875" y2="272.1875" stroke="black" stroke-width="3.375"/>
+<line x1="424.2875" y1="170.4875" x2="393.6875" y2="168.6875" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="156.9875" x2="15.6875" y2="156.9875" stroke="black" stroke-width="3.375"/>
+<line x1="15.6875" y1="156.9875" x2="15.6875" y2="282.0875" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="282.0875" x2="15.6875" y2="282.0875" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="156.9875" x2="2.1875" y2="282.0875" stroke="black" stroke-width="3.375"/>
+<line x1="15.6875" y1="268.5875" x2="46.2875" y2="271.2875" stroke="black" stroke-width="3.375"/>
+<line x1="15.6875" y1="169.5875" x2="46.2875" y2="167.7875" stroke="black" stroke-width="3.375"/>
+<circle cx="219.9875" cy="219.9875" r="181.79999999999998" fill="none" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

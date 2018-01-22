@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="222.175" height="220.825">
+<g style="stroke-linecap:round">
+<line x1="2.1875" y1="217.7375" x2="20.6375" y2="217.7375" stroke="black" stroke-width="3.375"/>
+<line x1="20.6375" y1="217.7375" x2="20.6375" y2="181.7375" stroke="black" stroke-width="3.375"/>
+<line x1="20.6375" y1="181.7375" x2="2.1875" y2="181.7375" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="181.7375" x2="2.1875" y2="217.7375" stroke="black" stroke-width="3.375"/>
+<line x1="201.0875" y1="181.7375" x2="201.0875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="201.5375" y1="218.6375" x2="219.9875" y2="218.6375" stroke="black" stroke-width="3.375"/>
+<line x1="219.9875" y1="218.6375" x2="219.9875" y2="182.6375" stroke="black" stroke-width="3.375"/>
+<line x1="219.9875" y1="182.6375" x2="201.5375" y2="182.6375" stroke="black" stroke-width="3.375"/>
+<line x1="201.5375" y1="182.6375" x2="201.5375" y2="218.6375" stroke="black" stroke-width="3.375"/>
+<path d="m 20.6375,183.0875 a 180.45000000000002,180.45000000000002 0 0 1 180.45000000000002,-180.45000000000002" fill="none" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>

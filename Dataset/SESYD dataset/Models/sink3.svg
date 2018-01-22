@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="260.575" height="129.325">
+<g style="stroke-linecap:round">
+<line x1="2.1875" y1="2.1875" x2="258.3875" y2="2.1875" stroke="black" stroke-width="3.375"/>
+<line x1="258.3875" y1="2.1875" x2="258.3875" y2="127.1375" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="127.1375" x2="258.3875" y2="127.1375" stroke="black" stroke-width="3.375"/>
+<line x1="2.1875" y1="2.1875" x2="2.1875" y2="127.1375" stroke="black" stroke-width="3.375"/>
+<line x1="8.4875" y1="8.4875" x2="139.2125" y2="8.4875" stroke="black" stroke-width="3.375"/>
+<line x1="139.2125" y1="8.4875" x2="139.2125" y2="120.3125" stroke="black" stroke-width="3.375"/>
+<line x1="8.4875" y1="120.3125" x2="139.2125" y2="120.3125" stroke="black" stroke-width="3.375"/>
+<line x1="8.4875" y1="8.4875" x2="8.4875" y2="120.3125" stroke="black" stroke-width="3.375"/>
+<line x1="152.8625" y1="15.8375" x2="244.7375" y2="15.8375" stroke="black" stroke-width="3.375"/>
+<line x1="152.8625" y1="35.2625" x2="244.7375" y2="35.2625" stroke="black" stroke-width="3.375"/>
+<line x1="153.3875" y1="55.2125" x2="245.2625" y2="55.2125" stroke="black" stroke-width="3.375"/>
+<line x1="153.3875" y1="74.6375" x2="245.2625" y2="74.6375" stroke="black" stroke-width="3.375"/>
+<line x1="152.8625" y1="94.0625" x2="244.7375" y2="94.0625" stroke="black" stroke-width="3.375"/>
+<line x1="152.8625" y1="113.4875" x2="244.7375" y2="113.4875" stroke="black" stroke-width="3.375"/>
+<line x1="58.3625" y1="120.3125" x2="58.3625" y2="107.1875" stroke="black" stroke-width="3.375"/>
+<line x1="58.3625" y1="107.1875" x2="90.9125" y2="107.1875" stroke="black" stroke-width="3.375"/>
+<line x1="90.9125" y1="107.1875" x2="90.9125" y2="119.7875" stroke="black" stroke-width="3.375"/>
+<circle cx="124.5125" cy="22.6625" r="7.875" fill="none" stroke="black" stroke-width="3.375"/>
+</g>
+</svg>
